@@ -1,6 +1,7 @@
 {
   "projects": [
     {
+      "id":1,
       "product": "UNISYS InfoImage Enterprise Content Manager",
       "company": "NTTDATA",
       "client": "UNISYS",
@@ -29,6 +30,7 @@
       "description": "Unisys InfoImage is an Enterprise Content Management (ECM) platform with integrated Business Process Management (BPM/workflow) and Records Management (RM) that is ideally suited for business-critical applications that involve high document volumes arriving as paper, electronic files, digital assets, and internet transactions."
     },
     {
+      "id":2,
       "product": "DeltaX Adbox Pro",
       "company": "DeltaX",
       "client": "DeltaX",
@@ -65,6 +67,7 @@
       "description": "DeltaX is the pioneering cross-channel digital advertising platform. The company helps ad agencies and performance marketers buy, track, attribute, optimize and report media across Search, Social, Display, Mobile and Video ads more efficiently by taking a unified data and automation driven approach. The cloud-based platform leverages big data, user behavior and machine learning algorithms to improve performance across the business funnel of advertisers."
     },
     {
+      "id":3,
       "product": "OPTUM Impact Pro",
       "company": "OPTUM",
       "client": "OPTUM",
@@ -90,6 +93,7 @@
       "description": "Impact Pro® helps care managers evaluate members' current intervention programs to discover opportunities to maximize intervention efficacy. Target services to eliminate gaps in care. Improve the accuracy of analytic results. Better assess individual and population risk."
     },
     {
+      "id": 4,
       "product": "BOSCH",
       "company": "BOSCH",
       "client": "BOSCH",

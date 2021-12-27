@@ -106,17 +106,7 @@
         "Access Database",
         "MS Access 2013"
       ],
-      "description": "Inventory TV Display Application to recurringly show/alert/status of items in the BOSCH Innventory",
-      "applications": [
-        {
-          "name": "Part-Number-Store-App",
-          "link": "https://github.com/akshayjoyinfo/Part-Number-Store-App"
-        },
-        {
-          "name": "RBAI-Bosch",
-          "link": "https://github.com/akshayjoyinfo/RBAI-Bosch"
-        }
-      ]
+      "description": "Inventory TV Display Application to recurringly show/alert/status of items in the BOSCH Innventory"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "name": "akshay-profile-be",
+  "version": "1.0.0",
+  "description": "My Personal Data as API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Akshay P Joy",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
